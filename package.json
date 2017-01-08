@@ -33,7 +33,6 @@
     "cli-box": "^5.0.0",
     "cli-size": "1.0.3",
     "clp": "^3.0.0",
-    "git-stats-colors": "^2.1.0",
     "moment": "^2.10.6",
     "r-json": "^1.0.0",
     "request": "^2.53.0",
