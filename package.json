@@ -31,7 +31,7 @@
     "bug-killer": "^4.0.0",
     "cheerio": "^0.18.0",
     "cli-box": "^5.0.0",
-    "cli-gh-cal": "^1.0.0",
+    "cli-size": "1.0.3",
     "clp": "^3.0.0",
     "git-stats-colors": "^2.1.0",
     "moment": "^2.10.6",

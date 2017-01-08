@@ -4,7 +4,7 @@
 var GhCal = require("../lib")
   , GhConfig = {}
   , Abs = require("abs")
-  , CliGhCal = require("cli-gh-cal")
+  , CliGhCal = require("../lib/cli-gh-cal")
   , Logger = require("bug-killer")
   , Clp = require("clp")
   , Package = require("../package")
