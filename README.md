@@ -1,5 +1,6 @@
+`gh-cont` is fork, merge and rewriting [ghcal](https://github.com/IonicaBizau/ghcal).
 
-[![ghcal](http://i.imgur.com/yzElGZN.png)](#)
+-[![ghcal](http://i.imgur.com/yzElGZN.png)](#)
 
 # `$ ghcal`
 
